@@ -37,8 +37,8 @@ you are trying to answer.
 
 ## 📁 Repository Structure
 ```
-├── notebook/
-│   └── stock_price_forecasting.ipynb
+├── data/
+│   └── README.md          ← data source, features, split docs
 ├── images/
 │   ├── block1_overview.png
 │   ├── block2_eda.png
@@ -52,6 +52,8 @@ you are trying to answer.
 │   ├── block10_evaluation.png
 │   ├── block11_multistocks.png
 │   └── block12_dashboard.png
+├── notebook/
+│   └── stock_price_forecasting.ipynb
 └── README.md
 ```
 
